@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Help</title>
+	<link rel="stylesheet" type="text/css" href="/src/materialize.css">
+</head>
+<body>
+
+	<div class="row">
+		<div id="content" class="col s8 offset-s2"></div>
+	</div>
+	
+	<script src="/src/jquery.js"></script>
+	<script src="/src/showdown.min.js"></script>
+	<script src="/src/materialize.min.js"></script>
+
+	<script type="text/javascript">
+		const converter = new showdown.Converter();
+		$.ajax({
+			method: 'GET',
+			url: "/src/web-help.md",
+			success: function(result) {
+				const html = converter.makeHtml(result);
+				document.querySelector('#content').innerHTML = html;
+			},
+			error: function () {
+				document.querySelector('#content').innerHTML = 'Error loading document';
+			}
+		});
+	</script>
+
+</body>
+</html>

@@ -1,0 +1,34 @@
+
+.file-list-item:hover {
+	color: white;
+	background-color: #2196f3;
+}
+
+.download-option:hover {
+	background-color: #0d47a1;
+}
+
+.clickable {
+	cursor: pointer;
+}
+
+#div-breadcrumbs {
+	padding-left: 20px;
+}
+
+.breadcrumb: hover {
+	background-color: white;
+}
+
+html, body {
+	margin: 0;
+	height: 100%;
+}
+
+.non-footer {
+	min-height: 100%;
+}
+
+
+
+

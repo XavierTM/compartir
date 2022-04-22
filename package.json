@@ -1,0 +1,31 @@
+{
+    "name": "Compartir",
+    "productName": "Compartir",
+    "version": "0.1.0",
+    "description": "Advanced file sharing application over wifi/hotspot",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "electron .",
+        "package-mac": "electron-packager . Compartir --overwrite --asar --platform=darwin --arch=x64 --icon=src/icons/icon.icns --prune=true --out=release-builds",
+        "package-win": "electron-packager . Compartir --overwrite --asar --platform=win32 --arch=ia32 --icon=src/icons/icon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE",
+        "package-linux": "electron-packager . Compartir --overwrite --asar --platform=linux --arch=x64 --icon=src/icon.png --prune=true --out=release-builds",
+        "installer-linux": "electron-installer-debian --src release-builds/Compartir-linux-x64 --arch amd64 --config debian.json",
+        "installer-mac": "electron-installer-dmg release-builds/Compartir-darwin-x64/Compartir.app Compartir --out=release-builds --overwrite --icon=src/icons/icon.icns"
+    },
+    "author": "Xavier Mukodi",
+    "license": "ISC",
+    "dependencies": {
+        "archiver": "^4.0.1",
+        "electron": "^8.0.1",
+        "electron-squirrel-startup": "^1.0.0",
+        "express": "^4.17.1",
+        "ip": "^1.1.5",
+        "open": "^7.0.3"
+    },
+    "devDependencies": {
+        "electron-installer-dmg": "^3.0.0",
+        "electron-packager": "^14.2.1",
+        "opn": "^6.0.0"
+    }
+}

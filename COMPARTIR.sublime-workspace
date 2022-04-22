@@ -1,0 +1,1229 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tble",
+				"table"
+			],
+			[
+				"pillc",
+				"pill_count"
+			],
+			[
+				"M",
+				"medication_id"
+			],
+			[
+				"backgro",
+				"background-image\tproperty"
+			],
+			[
+				"ser",
+				"service_requests"
+			],
+			[
+				"echo",
+				"echo\techo \"…\""
+			],
+			[
+				"conta",
+				"contacts"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"team_",
+				"team_instance"
+			],
+			[
+				"part",
+				"pattern"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"text",
+				"text-rendering\tproperty"
+			],
+			[
+				"text-",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"te",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"hma",
+				"hash_hmac"
+			],
+			[
+				"oauth_sig",
+				"oauth_signature_method"
+			],
+			[
+				"ous",
+				"oauth_signature_method"
+			],
+			[
+				"sen",
+				"sender_id"
+			],
+			[
+				"header",
+				"get_headers"
+			],
+			[
+				"log",
+				"svn_log"
+			],
+			[
+				"acc",
+				"access_token"
+			],
+			[
+				"cookes",
+				"cookies"
+			],
+			[
+				"en",
+				"enqueue"
+			],
+			[
+				"http",
+				"http_support"
+			],
+			[
+				"head",
+				"headers_list"
+			],
+			[
+				"curl",
+				"cubrid_connect_with_url"
+			],
+			[
+				"reci",
+				"recipient_id"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"las",
+				"last_msg_ptr"
+			],
+			[
+				"T",
+				"time"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"una",
+				"unassigned_threads"
+			],
+			[
+				"ne",
+				"new_msgs"
+			],
+			[
+				"active",
+				"active_agents"
+			],
+			[
+				"proc",
+				"process_id"
+			],
+			[
+				"mul",
+				"multilock_id"
+			],
+			[
+				"thread",
+				"thread_id"
+			],
+			[
+				"set",
+				"setcookie"
+			],
+			[
+				"pregma",
+				"preg_match"
+			],
+			[
+				"Requ",
+				"REQUEST_URI"
+			],
+			[
+				"render",
+				"render_category"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"resp",
+				"response"
+			],
+			[
+				"file",
+				"file_put_contents"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"add",
+				"addHTML"
+			],
+			[
+				"objec",
+				"objectives"
+			],
+			[
+				"stud",
+				"students"
+			],
+			[
+				"data",
+				"database-error"
+			],
+			[
+				"st",
+				"students"
+			],
+			[
+				"stu",
+				"students"
+			],
+			[
+				"instr",
+				"instructor"
+			],
+			[
+				"respo",
+				"responseText"
+			],
+			[
+				"backgroud-c",
+				"background-color\tproperty"
+			],
+			[
+				"font-",
+				"font-stretch\tproperty"
+			],
+			[
+				"obje",
+				"objective"
+			],
+			[
+				"ob",
+				"objective"
+			],
+			[
+				"obj",
+				"objective"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"class",
+				"_class"
+			],
+			[
+				"Inss",
+				"Instructors"
+			],
+			[
+				"ins",
+				"Instructor"
+			],
+			[
+				"id",
+				"_id"
+			],
+			[
+				"object",
+				"objective"
+			],
+			[
+				"inst",
+				"instructor"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"array_ush",
+				"array_push"
+			],
+			[
+				"stude",
+				"students"
+			],
+			[
+				"dep",
+				"department"
+			],
+			[
+				"isa",
+				"is_array"
+			],
+			[
+				"html",
+				"html"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"and",
+				"AND"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"value",
+				"valueD"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"re",
+				"responseText"
+			],
+			[
+				"remove",
+				"removeChild"
+			],
+			[
+				"name",
+				"category_name"
+			],
+			[
+				"array_p",
+				"array_pop"
+			],
+			[
+				"print_",
+				"printer_draw_chord"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"date",
+				"date_create_from_format"
+			],
+			[
+				"time",
+				"time"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"a",
+				"array\t$… = array (…)"
+			],
+			[
+				"array",
+				"array_merge"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"GET",
+				"_GET"
+			],
+			[
+				"crae",
+				"createID"
+			],
+			[
+				"wish",
+				"wish_list"
+			],
+			[
+				"timest",
+				"time_stamp"
+			],
+			[
+				"mysqlife",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"pi",
+				"picture"
+			],
+			[
+				"eho",
+				"echo\techo \"…\""
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pic",
+				"pictures"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"_P",
+				"_PHP_SELF"
+			],
+			[
+				"service",
+				"service_id"
+			],
+			[
+				"tbl",
+				"tblServices"
+			],
+			[
+				"serv",
+				"service"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"crea",
+				"creatAuthID"
+			],
+			[
+				"arr",
+				"arrProducts"
+			],
+			[
+				"nust",
+				"nustify"
+			],
+			[
+				"store",
+				"store_id"
+			],
+			[
+				"product_",
+				"product_id"
+			],
+			[
+				"sort",
+				"sortby"
+			],
+			[
+				"pictur",
+				"picture_url"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_assoc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 1969,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1249,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "util.js",
+			"settings":
+			{
+				"buffer_size": 576,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "handlers.js",
+			"settings":
+			{
+				"buffer_size": 3748,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.html",
+			"settings":
+			{
+				"buffer_size": 1870,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main.js",
+			"settings":
+			{
+				"buffer_size": 1704,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main.css",
+			"settings":
+			{
+				"buffer_size": 316,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1871,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.js",
+			"settings":
+			{
+				"buffer_size": 5202,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.css",
+			"settings":
+			{
+				"buffer_size": 336,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Yours Truly",
+			"settings":
+			{
+				"buffer_size": 180,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "- COMPARTIR, a PC file sharing application, from Y"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"wipe",
+			"clear",
+			"clrscr",
+			"clr",
+			"cls",
+			"dir contains",
+			"dir(\"\")",
+			"dir",
+			"cmd",
+			"abc",
+			"clear",
+			"cls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/xavier/Desktop/XAVI/PROJECTS/Fun/src/index.css",
+		"/home/xavier/Desktop/XAVI/PROJECTS/Examples/ElectronTest/index.html",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/accepts.js",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/message.js",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/regex.js",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/api/util.php",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/api/industries.php",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/materialize.css",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/api/service-request.php",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/request-service/script.js",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/request-service/style.css",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/request-service/index.php",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/index.php",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/example.json",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/test.php",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/form-html-js.js",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/portfolio/style.css",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/portfolio/index.php",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/services.php",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/footer.php",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/header.php",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/generate-code.php",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/quotation.js",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/util.php",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/index.html",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Planet Shakers/index.html",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/request-service.php",
+		"/home/xavier/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/quotation.html",
+		"/etc/apache2/apache2.conf",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/generate-code.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/form-html-js.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/FirstEdge/FirstEdge-master/NewBiz/NewBiz/index.html",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/CUSTOM/Planet Shakers/style.css",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/CUSTOM/Planet Shakers/index.html",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/CUSTOM/Planet Shakers/script.js",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/test.htm",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/ihd_test.htm",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/helpdesk.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/dashboardd.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/dashboard.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/index.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/test.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/Deployment Notes",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/unattend.txt",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/customer/send-msg.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/customer/refresh-chat.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/determine-active-chats.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/agent/get-chats.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/agent/refresh.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/agent/close.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/agent/reply.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/agent/create-user.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/delete-cookies.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/util.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/agent/logout.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/agent/login.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/admin/logout.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/admin/login.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/admin/chats.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/admin/new-code.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/admin/create-user.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/change-password.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/platforms/facebook/webhook.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/platforms/twitter/webhook.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/router.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/platforms/twitter/reply.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/platforms/facebook/reply.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/chat.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/login.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/api/logout.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/create-user.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/agent.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/sms.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/admin.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMMERCIAL/IntegratedHD/customer.php",
+		"/C/Users/Beater/Desktop/XAVI/Electronic Engineering/Project Progreso/render.js",
+		"/C/xampp/htdocs/doc/untlitled.html",
+		"/C/xampp/htdocs/BookDoctor API.json",
+		"/C/xampp/htdocs/test.js",
+		"/C/xampp/htdocs/ema/view_unapproved.php",
+		"/C/xampp/htdocs/ema/admin.js",
+		"/C/xampp/htdocs/nustify.com/nustify_cart_test",
+		"/C/xampp/htdocs/nustify.com/test/index.php",
+		"/C/xampp/htdocs/nustify.com/dash/index.php",
+		"/C/xampp/htdocs/nustify.com/nustify_intro.php",
+		"/C/xampp/htdocs/nustify.com/test.php",
+		"/C/xampp/htdocs/nustify.com/dashboard/dashboard.js",
+		"/C/Users/Beater/Desktop/AGEING REPLACEMENTS/dbman.php",
+		"/C/Users/Beater/Desktop/AGEING REPLACEMENTS/dashboard/test.php",
+		"/C/Users/Beater/Desktop/AGEING REPLACEMENTS/index.php",
+		"/C/Users/Beater/Desktop/AGEING REPLACEMENTS/products/index.php",
+		"/C/Users/Beater/Desktop/AGEING REPLACEMENTS/login/index.php",
+		"/C/Users/Beater/Desktop/AGEING REPLACEMENTS/dashboard/index.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMPUTER SCIENCE PROJECTS/Black Jack/index.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMPUTER SCIENCE PROJECTS/Black Jack/play.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMPUTER SCIENCE PROJECTS/Black Jack/index.htm",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMPUTER SCIENCE PROJECTS/Nustify/feed.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMPUTER SCIENCE PROJECTS/Nustify/navigation_bar.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMPUTER SCIENCE PROJECTS/Nustify/signup.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMPUTER SCIENCE PROJECTS/Nustify/signup.html",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMPUTER SCIENCE PROJECTS/Nustify/browse.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMPUTER SCIENCE PROJECTS/Nustify/search.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMPUTER SCIENCE PROJECTS/Nustify/view_accommodation.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMPUTER SCIENCE PROJECTS/Nustify/view_store.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMPUTER SCIENCE PROJECTS/Nustify/view_product.php",
+		"/C/Users/Beater/Desktop/XAVI/PROJECTS/COMPUTER SCIENCE PROJECTS/Nustify/index.php",
+		"/C/xampp/htdocs/double.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/reverse.php",
+		"/C/xampp/htdocs/helloworld.htm"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"stats.s",
+			"dial",
+			"app"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"api"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 11,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1910,
+								1910
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1149,
+								1149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "util.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "handlers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2460,
+								2460
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1809.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1674,
+								1674
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 877.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4807,
+								4807
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2784.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Yours Truly",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"auto_name": "- COMPARTIR, a PC file sharing application, from Y",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 27.0
+	},
+	"pinned_build_system": "",
+	"project": "COMPARTIR.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/XAVI/PROJECTS/FirstEdge/Flagship site/maa/MAA.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

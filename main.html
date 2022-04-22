@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Compartir — Sharing is caring</title>
+	<link rel="stylesheet" type="text/css" href="src/materialize.css">
+	<link rel="stylesheet" type="text/css" href="src/main.css">
+
+</head>
+<body>
+
+	<div class="row">
+		
+		<div class="logo blue">
+			<h3 class="white-text" style="padding-left: 20px;">COMPARTIR</h3>
+		</div>
+
+		<div class="col s8 offset-s2">
+
+			<div class="block">
+				<table class="striped">
+					<tr>
+						<td><b>Server URL</b></td>
+						<td id="url-cell">N/A</td>
+					</tr>
+					<tr>
+						<td><b>Server Status</b></td>
+						<td id="status-cell">Offline</td>
+					</tr>
+					<tr>
+						<td><b>Folder</b></td>
+						<td id="folder-cell">N/A</td>
+					</tr>
+				</table>
+			</div>
+
+			<hr class="blue">
+
+			<p class=" grey-text block">
+				First click the <code>CHOOSE FOLDER</code> button to select the folder you want to share, then start the server. Share the Server URL with those you want them to access the folder.
+			</p>
+
+			<div class="center-align ">
+				<button class="btn white blue-text" style="border-color: #2196f3; border-style: solid; border-width: 1px;" onclick="chooseFolder()">CHOOSE FOLDER</button>
+				<button class="btn blue" onclick="toggleServer()" disabled id="btn-start">Start Server</button>
+			</div>
+
+		</div>
+
+	</div>
+
+	<footer class="page-footer blue">
+		<div class="container row">
+			<div class="col s4 offset-s2">
+				<h5>Help Links</h5>
+				<ul>
+					<li><a href="#" onclick="openHelpFile(`app-help.html`)" class="white-text">Application Manual</a></li>
+					<li><a href="#" onclick="openHelpFile(`web-help.html`)" class="white-text">Web Manual</a></li>
+				</ul>
+			</div>
+			<div class="col s4">
+				<h5>Send issues:</h5>
+				<ul class="white-text">
+					<li>
+						<a href="mailto:xaviermukodi@gmail.com" class="white-text">xaviermukodi@gmail.com</a>
+					</li>
+					<li>
+						+263 777 901 802
+					</li>
+				</ul>
+			</div>
+
+		</div>
+		<div class="footer-copyright">
+			<div class="container center-align">
+				© 2020 Xavier Mukodi
+			</div>
+		</div>
+	</footer>
+
+	<script src="src/materialize.min.js"></script>
+	<script src="src/main.js"></script>
+</body>
+</html>
